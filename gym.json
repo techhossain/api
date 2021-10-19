@@ -1,0 +1,93 @@
+[
+
+	{
+		"id" : "101",
+		"package": "PLATINUM MEMBERSHIP",
+		"information": "Single person (Yearly Charges) gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits 5000 locker charges Included: customized diet, workout, session therapy Per KG at 5,000BDT",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "7000",
+		"annulFees": "70000",
+		"membershipFor": "Single Person",
+		"branch" : "Any",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "102",
+		"package": "PLATINUM MEMBERSHIP",
+		"information": "For Couples(Yearly Charges) gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 5000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "15000",
+		"annulFees": "120000",
+		"membershipFor": "Couple",
+		"branch" : "Any",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "103",
+		"package": "GOLD MEMBERSHIP",
+		"information": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 3000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "4000",
+		"annulFees": "40000",
+		"membershipFor": "Single Person",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "104",
+		"package": "GOLD MEMBERSHIP",
+		"information": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 3000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "7000",
+		"annulFees": "75000",
+		"membershipFor": "Couple",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "105",
+		"package": "SILVER MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "8000",
+		"annulFees": "90000",
+		"membershipFor": "Single Person",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "106",
+		"package": "SILVER MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "12000",
+		"annulFees": "120000",
+		"membershipFor": "Couple",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "107",
+		"package": "BRONZE MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "5000",
+		"annulFees": "60000",
+		"membershipFor": "Single Person",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	},
+	{
+		"id" : "108",
+		"package": "BRONZE MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "8000",
+		"annulFees": "90000",
+		"membershipFor": "Couple",
+		"branch" : "Single Branch",
+		"image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg"
+	}
+]
+
+
